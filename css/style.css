@@ -1,0 +1,9 @@
+* {
+    border-style: border-box;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid #A9E2CC;
+}
